@@ -1,4 +1,4 @@
-# System Maintenance Script
+# Clean My Mac M
 
 This Bash script performs system maintenance tasks to optimize and clean up your macOS system. It covers a range of actions, including clearing caches, logs, temporary files, browser caches, emptying the trash, optimizing system performance, and more.
 
