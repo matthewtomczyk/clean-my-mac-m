@@ -11,13 +11,13 @@ This Bash script performs system maintenance tasks to optimize and clean up your
 3. Make the script executable (if not already):
 
    
-   `chmod +x clean my mac M.sh`
+   `chmod +x Clean My Mac M.sh`
    
 
 4. Run the script:
 
    
-   `./clean my mac M.sh`
+   `./Clean My Mac M.sh`
    
 
 5. Enter your sudo password when prompted.
